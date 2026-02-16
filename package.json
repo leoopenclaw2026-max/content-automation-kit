@@ -1,0 +1,13 @@
+{
+  "name": "content-automation-kit",
+  "version": "0.1.0",
+  "description": "Plug-and-play templates for automating social media content",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build scripts coming soon'",
+    "test": "echo 'Tests coming soon'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
